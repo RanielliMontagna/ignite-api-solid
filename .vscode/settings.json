@@ -1,3 +1,8 @@
 {
-  "conventionalCommits.scopes": ["use-cases", "repositories", "factories"]
+  "conventionalCommits.scopes": [
+    "use-cases",
+    "repositories",
+    "factories",
+    "http"
+  ]
 }
