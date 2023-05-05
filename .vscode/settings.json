@@ -3,6 +3,7 @@
     "use-cases",
     "repositories",
     "factories",
-    "http"
+    "http",
+    "test"
   ]
 }
